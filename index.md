@@ -33,3 +33,4 @@ var myVar = "Hello, world!";
 
 Added heading examples
 Added an image
+Added code examples
