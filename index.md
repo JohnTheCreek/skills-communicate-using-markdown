@@ -6,7 +6,7 @@
 
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -23,3 +23,4 @@
 
 
 Added heading examples
+Added an image
